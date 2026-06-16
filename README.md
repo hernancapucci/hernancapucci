@@ -72,6 +72,15 @@ Current areas of work include:
 
 ---
 
+## Books
+
+### El nuevo creador técnico
+A digital reference book for creators, entrepreneurs, and non-technical professionals who want to understand digital systems and artificial intelligence without becoming programmers. Published in five editions (ES · PT-BR · EN · IT · FR).  
+https://elnuevocreadortecnico.com  
+https://github.com/hernancapucci/el-nuevo-creador-tecnico
+
+---
+
 ## Identity
 
 **ORCID**  
