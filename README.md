@@ -1,104 +1,42 @@
-# Hernán Alfredo Capucci
+# Hernán Capucci
 
-Builder of conceptual infrastructure for autonomous systems.
+Real estate broker in Rosario, Argentina, and builder of digital products. I also do independent research on how AI agents declare who they are, what they are allowed to do and on whose behalf.
 
-Founder of **Agent Manifest** — a declarative specification for AI agent identity, authority, and boundaries before execution.
-
----
-
-## Current Work
-
-- **Agent Manifest** — declarative infrastructure for autonomous AI agents
-- **Agent Manifest Ambassador** — manifest generation interface
-- **Boundary Handshake** — relational extension for agent-to-agent interaction
-- **∈ Principle** — philosophical foundation for public accountability of action
+*Corredor inmobiliario en Rosario y creador de productos digitales. Investigo de forma independiente la gobernanza de agentes de IA.*
 
 ---
 
-## Core Repositories
+## Research
 
-### Agent Manifest
-Canonical specification and JSON schema for declarative AI agent identity.  
-https://github.com/agent-manifest/agent-manifest
+Independent, open work. Archived with DOIs on Zenodo for community review — **not peer-reviewed**.
 
-### Agent Manifest Ambassador
-Conversational generator for structurally valid Agent Manifest declarations.  
-https://github.com/agent-manifest/agent-manifest-ambassador  
-https://agent-manifest.github.io/agent-manifest-ambassador/
+- **[Agent Manifest](https://agent-manifest-spec.org)** — an open declarative specification (v1.0) for AI agents to publish their identity, capabilities and operational boundaries before interacting. Specification, JSON Schema, a command-line validator, a reading client and a public registry live in the [agent-manifest](https://github.com/agent-manifest) organization.
+  DOI: [10.5281/zenodo.18833955](https://doi.org/10.5281/zenodo.18833955)
+- **[Agentic Governance & Trust Stack (AGTS)](https://github.com/agent-manifest/agentic-governance-trust-stack)** — an independent working paper (v0.2.1, 2026), separate from the Agent Manifest specification. A five-layer framework for trust and governance around autonomous economic agents: declaration, identity, policy, runtime enforcement and decision forensics.
+  DOI: [10.5281/zenodo.21347422](https://doi.org/10.5281/zenodo.21347422)
+- **The Pre-Execution Identity Gap in AI Agents** — working paper (2026) proposing a minimal declarative layer before an agent acts.
+  DOI: [10.5281/zenodo.19432967](https://doi.org/10.5281/zenodo.19432967)
+- **[∈ Principle](https://github.com/agent-manifest/e-principle)** — a philosophical and institutional proposal on public authorship and responsibility in the age of AI, also published as a book in Spanish and English.
+  DOI: [10.5281/zenodo.18965668](https://doi.org/10.5281/zenodo.18965668)
 
-### Agent Manifest Dataset
-Public dataset of registered manifests, with ingestion and registry workflows.  
-https://github.com/agent-manifest/agent-manifest-dataset
+Other works, such as Boundary Handshake and a comparative study on boundary declaration, are listed on [ORCID](https://orcid.org/0009-0008-7216-3032).
 
-### Agent Manifest Registry
-Discovery layer, federation model, and registry rules.  
-https://github.com/agent-manifest/agent-manifest-registry
+## Tools
 
-### Boundary Handshake
-Conceptual extension for bilateral agent interaction governance.  
-https://github.com/agent-manifest/boundary-handshake
+- **[skill-static-review](https://github.com/hernancapucci/skill-static-review)** — prompts and checklists to statically review third-party AI skills before installing them. It is not a scanner and does not certify safety.
+- **[llm-waste-audit](https://github.com/hernancapucci/llm-waste-audit)** — an early MVP that detects avoidable LLM waste, such as cache breakers and context bloat.
 
-### ∈ Principle
-Philosophical foundation: *The Destination of Actions*.  
-https://github.com/agent-manifest/e-principle
+## Products
 
----
+- **[Existence Compiler](https://www.existencecompiler.com)** — an early-stage product that scans a public URL and reports which discovery conditions for search engines and AI systems it could evaluate, with its coverage. What it cannot determine is not counted as a failure.
+- **[OwnSite Studio](https://ownsitestudio.com)** — the custom website design and development studio I founded in 2026.
 
-## Research & Citations
+## Book
 
-Agent Manifest ecosystem artifacts are archived with DOI via Zenodo.
-
-**Agent Manifest**  
-https://doi.org/10.5281/zenodo.18833589
-
-**Boundary Handshake**  
-https://doi.org/10.5281/zenodo.18896428
-
-**∈ Principle**  
-https://doi.org/10.5281/zenodo.18965669
+- **[El nuevo creador técnico](https://elnuevocreadortecnico.com)** — a digital reference book for people who work with technology without being programmers, in ten language editions. [Repository](https://github.com/hernancapucci/el-nuevo-creador-tecnico) · [Open Library](https://openlibrary.org/works/OL45838913W)
 
 ---
 
-## Research Focus
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-capucci/) · [X](https://x.com/HernanCapucci) · [ORCID](https://orcid.org/0009-0008-7216-3032) · [Medium](https://medium.com/@brfnrvf)
 
-Current areas of work include:
-
-- AI governance
-- declarative infrastructure
-- agent identity and accountability
-- pre-execution authority
-- public registry and discoverability for AI agents
-- legitimacy and structural responsibility in autonomous systems
-
----
-
-## Books
-
-### El nuevo creador técnico
-A digital reference book for creators, entrepreneurs, and non-technical professionals who want to understand digital systems and artificial intelligence without becoming programmers. Published in ten editions (ES · PT-BR · EN · IT · FR · DE · ID · TR · RU · KO).  
-https://elnuevocreadortecnico.com  
-https://github.com/hernancapucci/el-nuevo-creador-tecnico  
-Catalogued at Open Library: https://openlibrary.org/works/OL45838913W
-
----
-
-## Identity
-
-**ORCID**  
-https://orcid.org/0009-0008-7216-3032
-
-**Location**  
-Rosario, Argentina
-
----
-
-## Public Presence
-
-**Website**  
-https://agent-manifest-spec.org
-
-**X**  
-https://x.com/agent_manifest
-
-**Medium**  
-https://medium.com/@brfnrvf
+In academic citations and records I appear as **Hernán Alfredo Capucci**.
