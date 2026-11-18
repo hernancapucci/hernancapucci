@@ -21,14 +21,8 @@ Independent, open work. Archived with DOIs on Zenodo for community review — **
 
 Other works, such as Boundary Handshake and a comparative study on boundary declaration, are listed on [ORCID](https://orcid.org/0009-0008-7216-3032).
 
-## Tools
-
-- **[skill-static-review](https://github.com/hernancapucci/skill-static-review)** — prompts and checklists to statically review third-party AI skills before installing them. It is not a scanner and does not certify safety.
-- **[llm-waste-audit](https://github.com/hernancapucci/llm-waste-audit)** — an early MVP that detects avoidable LLM waste, such as cache breakers and context bloat.
-
 ## Products
 
-- **[Existence Compiler](https://www.existencecompiler.com)** — an early-stage product that scans a public URL and reports which discovery conditions for search engines and AI systems it could evaluate, with its coverage. What it cannot determine is not counted as a failure.
 - **[OwnSite Studio](https://ownsitestudio.com)** — the custom website design and development studio I founded in 2026.
 
 ## Book
